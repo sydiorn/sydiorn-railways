@@ -2,6 +2,16 @@
 
 Sydiorn Railways are an open source urban planning project for the construction of modern and efficient railways. The purpose of this project is to implement various features from real present-day railways. 
 
+<figure>
+  <img src="https://farm4.staticflickr.com/3065/2764375007_d5724ed62f.jpg" alt="On the Siberian steppe by Bernt Rostad">
+  <figcaption>
+    Current status of the project.
+    <sub><sup><i>
+      <a href="https://flic.kr/p/5dh9o4">On the Siberian steppe by Bernt Rostad</a>
+    </i></sup></sub>
+  </figcaption>
+</figure>
+
 ## Project organisation
 
 WIP.
