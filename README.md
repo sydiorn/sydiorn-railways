@@ -10,7 +10,8 @@ WIP.
 
 This repository is divided into several branches, each focusing on one aspect of the project.
 
-- [**master**](https://github.com/sydiorn/sydiorn-railways/tree/gh-pages) : Entry point of the project; it contains an overview of the other branches and useful links.
+- [**master**](https://github.com/sydiorn/sydiorn-railways/tree/gh-pages) : Entry point of the project; it contains an overview of the other branches and useful links. New branches are created based on `master`.
+- [**planning**](https://github.com/sydiorn/sydiorn-railways/tree/planning) : Space for project planning and brainstorming. This branch contains schematics, design choices, and construction plans.
 - [**gh-pages**](https://github.com/sydiorn/sydiorn-railways/tree/gh-pages) : Static website of the project powered by Jekyll.
 - [**docs**](https://github.com/sydiorn/sydiorn-railways/tree/docs) : Technical documentation, guides and other informative documents.
 - [**mod**](https://github.com/sydiorn/sydiorn-railways/tree/mod) : Mod dedicated to the project, programmed in Java and based on the Minecraft Forge framework.
