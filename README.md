@@ -1,6 +1,6 @@
 # 🚊 Sydiorn Railways
 
-Sydiorn Railways are an open source urban planning project for the construction of modern and efficient railways. The purpose of this project is to implement various features from real present-day railways. 
+Sydiorn Railways are an open source urban planning project for the construction of modern and efficient railways, comprising many specific sub-projects. Its purpose is to implement various features from real present-day railways. This project contains reusable components that can be used separately to enhance your own railway network.
 
 <div align="center">
   <figure>
